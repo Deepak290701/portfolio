@@ -1,5 +1,6 @@
 @import './common.css';
 
+
 #contact .contact{
     flex-direction: column;
     max-width: 1200px;
@@ -36,10 +37,6 @@
     margin-bottom: 10px;
 }
 
-#contact .icon img{
-    /* height: 60%; */
-    /* width: auto; */
-}
 #contact .contact-info h1{
     font-size: 2.5 rem;
     font-weight: 500;
