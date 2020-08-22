@@ -6,6 +6,7 @@
 
 /* hero part starts */
 
+
 #hero {
     background-image: url("/img/college-bg.jpg");
     background-size: cover;
@@ -83,7 +84,8 @@
 #hero .cta{
     display: inline-block;
     padding: 10px 30px;
-    color: crimson;
+    /* color: crimson; */
+    color: white;
     text-transform: uppercase;
     font-size: 2rem;
     border: 2px solid crimson;

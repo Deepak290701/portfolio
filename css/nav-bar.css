@@ -80,7 +80,7 @@
     transform: translate(-50%,-50%) scale(1);
 }
 #header .nav-list ul  li:hover a{
-    color: crimson;
+    color: lightgreen;
 }
 
 #header .hamburger{

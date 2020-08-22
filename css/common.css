@@ -11,6 +11,7 @@ html{
     font-size: 10px;
     
 }
+
 a{
     text-decoration: none;
 }
@@ -47,7 +48,7 @@ p{
 }
 
 .section-title span{
-    color: crimson;
+    color: rgb(245, 4, 4);
 }
 
 .brand h1{
@@ -56,5 +57,5 @@ p{
     color: white;
 }
 .brand h1 span{
-    color: crimson;
+    color: rgb(255, 0, 0);
 }
