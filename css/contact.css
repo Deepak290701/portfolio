@@ -13,6 +13,8 @@
 
 #contact .contact-item{
     width: 80%;
+    /* max-width: 500px; */
+    height: auto;
     /* padding: 10px; */
     text-align: center;
     border-radius: 10px;
@@ -24,6 +26,7 @@
     box-shadow: 0px 0px 10px 0 #7c7c81;
     flex-direction: column;
     transition: .3s ease-in-out box-shadow;
+    background: rgb(91, 214, 188);
 }
 #contact .contact-item:hover{
     box-shadow: 0px 0px 5px 0 #7c7c81;
@@ -32,7 +35,8 @@
 }
 
 #contact .icon{
-    width: 50%;
+    max-width: 15%;
+    height: auto;
     margin: 0 auto;
     margin-bottom: 10px;
 }
