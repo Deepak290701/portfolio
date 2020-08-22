@@ -6,13 +6,7 @@
 @import './projects.css';
 @import './services.css';
 
-@media only screen and (min-width: 400px){
-    #projects .projects .all-projects .project-item .project-info{ 
-        /* max-height: 50vh; */
-        /* padding: 10px; */
-        /* background: red; */
-    }
-    #projects .projects .all-projects .project-item .project-img{
+@media only screen and (min-width: 400px){ect-img{
         width: 100%;
     }
 }
